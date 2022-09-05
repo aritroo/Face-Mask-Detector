@@ -24,7 +24,7 @@ STEP 2 : Open cmd and clone the repository in your desired directory using the c
 
 STEP 3 : Open cmd and change the directory to that folder in which the project is cloned and run the following commands to intall the dependencies "pip install -r              requirements.txt" after that run "python mask.py" to run the application.
 
-STEP 4 : https://github.com/aritroo/Face-Mask-Detection.git
+STEP 4 : A diaglog box will open and the application will be ready to use
 
 
 
