@@ -26,6 +26,8 @@ STEP 3 : Open cmd and change the directory to that folder in which the project i
 
 STEP 4 : A diaglog box will open and the application will be ready to use
 
+STEP 5 : Press ctrl+c in cmd to exit.
+
 
 
 
