@@ -16,11 +16,14 @@ This model will be built by using CNN architecture and training, testing and spl
 
 
 
-#STEPS TO RUN THE PROJECT
+STEPS TO RUN THE PROJECT
 
 STEP 1 : Install python 3.7 or later version to run this application.
+
 STEP 2 : Open cmd and clone the repository in your desired directory using the command " git clone (link of the repo)"
+
 STEP 3 : Open cmd and change the directory to that folder in which the project is cloned and run the following command "python mask.py"
+
 STEP 4 : A dialog box will open and the application  will be ready to use.
 
 
