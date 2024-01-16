@@ -43,9 +43,6 @@ In addition I will work to improve accuracy in order to get the most face mask, 
 ![image](https://user-images.githubusercontent.com/91552411/180310602-6793dd43-32e6-47e1-b4b1-a5881d98613f.png)
 
 
-![image](https://user-images.githubusercontent.com/91552411/180310737-143b9ba8-734c-4c4c-9d1b-37a0e33ebb22.png)
-
-![image](https://user-images.githubusercontent.com/91552411/180310779-afd97697-41a4-4fd3-a0b3-9a3583b74e30.png)
 
 
 
